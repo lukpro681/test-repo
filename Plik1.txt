@@ -1,5 +1,5 @@
-zmiana01
-zmiana02 Zmiana02
+zmiana01 - zmiana06
+zmiana02 Zmiana02a
 zmiana03
 zmiana04
 zmiana05
