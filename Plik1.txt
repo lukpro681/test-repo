@@ -3,3 +3,4 @@ zmiana02 Zmiana02a
 zmiana03
 zmiana04
 zmiana05
+zmiana07c
